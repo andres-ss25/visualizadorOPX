@@ -1,5 +1,6 @@
 # Dashboard de Delitos en Cali - Observatorio de Paz y Cultura Ciudadana
 
+![Demo](assets/video.gif)
 ## Descripción del Proyecto
 Este proyecto piloto consiste en un visualizador interactivo de datos sobre cuatro tipos de delitos en la ciudad de Santiago de Cali. La fuente de los datos proviene de los datos abiertos de la Policía Nacional, y el proyecto fue desarrollado durante mi trabajo como analista de datos en el Observatorio de Paz y Cultura Ciudadana. de la Secretaría de Paz y Cultura Ciudadana.
 
@@ -45,6 +46,7 @@ Este proyecto me permitió aplicar y fortalecer mis habilidades en:
 
 ## Próximos Pasos
 Este piloto sienta las bases para futuros proyectos de visualización de datos delictivos, con posibles mejoras como:
+- Actualización con datos del 2018 a 2024
 - Integración con bases de datos en tiempo real.
 - Análisis predictivo utilizando modelos de Machine Learning.
 - Optimización para dispositivos móviles.
